@@ -9,6 +9,7 @@ Wikipedia ist ein Beispiel für eine statische Webseite: Im Gegensatz zu einer d
 
 3. Forke das Projekt in deinen Stack Blitz Account, bevor du den Code editierst.
 
+
 4. Nimm dir ausserdem Zeit um offene Fragen zu klären - dafür kannst du die Referenzen (siehe Links) oder die KI als Tutor benutzen. HTML und CSS bleiben für alle weiteren Modultage im Themenblock "Frontend" relevant.
 
 

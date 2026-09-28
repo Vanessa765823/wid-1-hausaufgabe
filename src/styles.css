@@ -1,3 +1,42 @@
 .App {
   font-family: sans-serif;
 }
+.content {
+  display: flex;
+  flex-direction: row;
+}
+
+.text {
+  width: 70%;
+}
+
+
+
+.infobox {
+  width: 30%;
+  border: 1px solid black;
+  background-color: lightgray;
+}
+
+.infobox-title {
+  background-color: gray;
+  text-align: center;
+}
+
+.infobox-image {
+  width: 100%;
+  height: auto;
+}
+
+.fact-row {
+  display: flex;
+}
+
+.fact-left {
+  width: 40%;
+  font-weight: bold;
+}
+
+.fact-right {
+  width: 60%;
+}
